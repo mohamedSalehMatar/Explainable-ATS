@@ -4,7 +4,7 @@ import random
 # Initialize list to hold generated data
 data = []
 
-# Sample data generation for resumes and job descriptions
+# Generates Sample data for resumes, job descriptions and fit scores
 for i in range(500):
     resume_text = f"Resume content {i}"
     job_text = f"Job description content {i}"
